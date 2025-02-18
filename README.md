@@ -1,4 +1,4 @@
-## Hello, I'm Secret kick game
+## Hello, I'm Secret Number Game
 
 
 - Feito em Html e JS
